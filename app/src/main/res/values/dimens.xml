@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<dimen name="medium_margin">16dp</dimen>
+<dimen name="big_margin">32dp</dimen>
+<dimen name="giant_margin">64dp</dimen>
+    <!--Floating action button-->
+    <dimen name="design_fab_image_size" tools:override="true">30dp</dimen>
+</resources>
