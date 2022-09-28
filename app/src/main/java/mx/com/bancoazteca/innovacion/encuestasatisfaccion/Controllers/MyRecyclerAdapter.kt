@@ -9,8 +9,11 @@ import android.widget.*
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
 import mx.com.bancoazteca.innovacion.encuestasatisfaccion.MainActivity
+import mx.com.bancoazteca.innovacion.encuestasatisfaccion.Models.AnswerSurvey
+import mx.com.bancoazteca.innovacion.encuestasatisfaccion.Models.TextFileReader
 import mx.com.bancoazteca.innovacion.encuestasatisfaccion.Models.preguntas
 import mx.com.bancoazteca.innovacion.encuestasatisfaccion.R
+import mx.com.bancoazteca.innovacion.encuestasatisfaccion.VoiceRecorder.VoiceRecorder
 
 class MyRecyclerAdapter () : RecyclerView.Adapter<MyRecyclerAdapter.MyItemViewHolder>() {
 
@@ -19,6 +22,7 @@ class MyRecyclerAdapter () : RecyclerView.Adapter<MyRecyclerAdapter.MyItemViewHo
     lateinit var context: Context
     lateinit var tvEnviar : TextView
     lateinit var actividad: MainActivity
+
 
     fun MyRecyclerAdapter(
         questions: MutableList<preguntas>,
@@ -31,7 +35,6 @@ class MyRecyclerAdapter () : RecyclerView.Adapter<MyRecyclerAdapter.MyItemViewHo
         this.context = context
         this.tvEnviar = tvEnviar
         this.actividad = activity
-
     }
 
     class MyItemViewHolder(view: View, activity: MainActivity) : RecyclerView.ViewHolder(view){
@@ -60,6 +63,7 @@ class MyRecyclerAdapter () : RecyclerView.Adapter<MyRecyclerAdapter.MyItemViewHo
         val ivNeutro = view.findViewById(R.id.ivCaraNeutro) as ImageView
         val ivGood = view.findViewById(R.id.ivCaraChido) as ImageView
 
+        var textFileReader = TextFileReader()
 
         fun bind(question: preguntas, context: Context, tvEnviar: TextView){
             Question.text = question.Question
@@ -231,11 +235,19 @@ class MyRecyclerAdapter () : RecyclerView.Adapter<MyRecyclerAdapter.MyItemViewHo
                         ivGood.setImageResource(R.drawable.happygray)
 
                         tvEnviar.visibility = View.VISIBLE
-                        val touch = SendSurvey(
-                            1
+                        val touch = AnswerSurvey(
+                            1,
+                            ""
                         )
 
-                        activity.WriteAnser(touch)
+                        textFileReader.WriteAnswer(touch, true)
+                        if(!activity.voiceRecorder.state){
+                            activity.voiceRecorder.startRecording()
+                            activity.timer.start()
+                        }
+
+
+
                     }
 
                 )
@@ -260,11 +272,16 @@ class MyRecyclerAdapter () : RecyclerView.Adapter<MyRecyclerAdapter.MyItemViewHo
 
                     tvEnviar.visibility = View.VISIBLE
 
-                    val touch = SendSurvey(
-                        2
+                    val touch = AnswerSurvey(
+                        2,
+                        ""
                     )
 
-                    activity.WriteAnser(touch)
+                    textFileReader.WriteAnswer(touch, true)
+                    if(!activity.voiceRecorder.state){
+                        activity.voiceRecorder.startRecording()
+                        activity.timer.start()
+                    }
                 })
 
                 ivGood.setOnClickListener(View.OnClickListener {
@@ -287,11 +304,17 @@ class MyRecyclerAdapter () : RecyclerView.Adapter<MyRecyclerAdapter.MyItemViewHo
 
                     tvEnviar.visibility = View.VISIBLE
 
-                    val touch = SendSurvey(
-                        3
+                    val touch = AnswerSurvey(
+                        3,
+                        ""
                     )
 
-                    activity.WriteAnser(touch)
+                    textFileReader.WriteAnswer(touch, true)
+                    if(!activity.voiceRecorder.state){
+                        activity.voiceRecorder.startRecording()
+                        activity.timer.start()
+                    }
+
                 })
 
             }
@@ -327,9 +350,5 @@ class MyRecyclerAdapter () : RecyclerView.Adapter<MyRecyclerAdapter.MyItemViewHo
             actividad
         )
     }
-
-    public class SendSurvey(
-        var userAnswer: Int,
-    )
 
 }

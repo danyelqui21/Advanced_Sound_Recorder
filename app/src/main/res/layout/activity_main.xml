@@ -37,8 +37,6 @@
         android:layout_marginTop="15dp" />
 
 
-
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -66,7 +64,6 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:minHeight="20dp"
-            android:text="@string/compartiropinion"
             android:textSize="18dp" />
 
 
@@ -85,9 +82,11 @@
             android:background="@color/white"
             android:backgroundTint="@color/white"
             android:src="@drawable/ic_record"
-            android:visibility="visible"
+            android:visibility="invisible"
+            android:enabled="false"
             app:backgroundTint="@null"
-            app:tint="#e74c3c" />
+            app:tint="#e74c3c"
+            />
 
 
     </LinearLayout>

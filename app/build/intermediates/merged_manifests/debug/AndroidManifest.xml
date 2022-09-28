@@ -32,7 +32,6 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.EncuestaSatisfacción" >
-        android:usesCleartextTraffic="true">
         <activity
             android:name="mx.com.bancoazteca.innovacion.encuestasatisfaccion.MainActivity"
             android:exported="true" >

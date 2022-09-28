@@ -16,6 +16,10 @@
         "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\layout_items.xml.flat",
+        "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\layout\\items.xml"
+    },
+    {
         "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\drawable_button_zoom_out.png.flat",
         "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\drawable\\button_zoom_out.png"
     },
@@ -44,10 +48,6 @@
         "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\drawable\\ic_action_microphone.png"
     },
     {
-        "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\layout_after_save_action.xml.flat",
-        "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\layout\\after_save_action.xml"
-    },
-    {
         "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\drawable_type_alarm.png.flat",
         "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\drawable\\type_alarm.png"
     },
@@ -60,16 +60,8 @@
         "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\drawable\\type_notification.png"
     },
     {
-        "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\menu_select_options.xml.flat",
-        "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\menu\\select_options.xml"
-    },
-    {
         "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\drawable_menu_save.png.flat",
         "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\drawable\\menu_save.png"
-    },
-    {
-        "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\layout_record_audio.xml.flat",
-        "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\layout\\record_audio.xml"
     },
     {
         "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -164,6 +156,10 @@
         "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\layout_activity_chava.xml.flat",
+        "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\layout\\activity_chava.xml"
+    },
+    {
         "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\drawable_ic_stop.xml.flat",
         "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\drawable\\ic_stop.xml"
     },
@@ -198,14 +194,6 @@
     {
         "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\drawable_marker_left_pressed.png.flat",
         "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\drawable\\marker_left_pressed.png"
-    },
-    {
-        "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\layout_media_select.xml.flat",
-        "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\layout\\media_select.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\layout_file_save.xml.flat",
-        "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\layout\\file_save.xml"
     },
     {
         "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\drawable_neutrogray.png.flat",
@@ -244,16 +232,8 @@
         "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\drawable\\star.png"
     },
     {
-        "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\layout_media_select_row.xml.flat",
-        "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\layout\\media_select_row.xml"
-    },
-    {
         "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\drawable_sad.png.flat",
         "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\drawable\\sad.png"
-    },
-    {
-        "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\menu_edit_options.xml.flat",
-        "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\menu\\edit_options.xml"
     },
     {
         "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\drawable_menu_show_all_audio.png.flat",
@@ -262,10 +242,6 @@
     {
         "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\drawable_selected_radio_button.xml.flat",
         "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\drawable\\selected_radio_button.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\layout_editor.xml.flat",
-        "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-main-7:\\layout\\editor.xml"
     },
     {
         "merged": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\daemon\\7.5.1\\mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-merged_res-5:\\drawable_logobancoazteca.png.flat",

@@ -7,6 +7,7 @@
     <string name="grabando">Grabando audio&#8230;</string>
     <string name="compartiropinion">¡Graba tus cometarios!"</string>
     <string name="GraciasGrabacion">¡Muchas gracias por su opinión!</string>
+    <string name="EmpiezaGrabacion">¡Grabe sus comentarios!</string>
     <string name="SinGrabacionEnCurso">¡No hay ninguna grabación en curso!</string>
 
 </resources>

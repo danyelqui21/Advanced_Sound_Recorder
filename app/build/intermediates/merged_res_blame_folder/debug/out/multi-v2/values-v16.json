@@ -4,17 +4,7 @@
             "outputFile": "mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-mergeDebugResources-3:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\caches\\transforms-3\\4afcc6eb21540f37443546848d7ec7a8\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\caches\\transforms-3\\1b38af34bcf95480fdc1107c45729078\\transformed\\appcompat-1.4.2\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\caches\\transforms-3\\0704475c7aa9484f5bcca30bb0ecc583\\transformed\\appcompat-1.4.2\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\caches\\transforms-3\\e2e2e27effe7743c947baf9f7d773e8c\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]

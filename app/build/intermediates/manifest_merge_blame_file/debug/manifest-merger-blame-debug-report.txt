@@ -11,10 +11,10 @@
 9-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-11-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:6:5-78
+11-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:6:5-79
 11-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:6:22-76
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:7:5-66
+12-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:7:5-67
 12-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:7:22-64
 13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 13-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:8:5-80
@@ -26,138 +26,137 @@
 15-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:10:5-82
 15-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:10:22-79
 16    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
-16-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:11:5-12:46
-16-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:11:22-70
+16-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:11:5-13:47
+16-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:12:9-57
 17    <uses-permission android:name="android.permission.WAKE_LOCK" />
-17-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:13:5-68
-17-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:13:22-65
+17-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:14:5-68
+17-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:14:22-65
 18    <uses-permission android:name="android.permission.ACTION_MANAGE_WRITE_SETTINGS" />
-18-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:15:5-16:46
-18-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:15:22-84
+18-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:15:5-17:47
+18-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:16:9-71
 19    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR" />
-19-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:17:5-76
-19-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:17:22-73
+19-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:18:5-76
+19-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:18:22-73
 20    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-20-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:18:5-70
-20-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:18:22-68
+20-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:19:5-71
+20-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:19:22-68
 21    <uses-permission android:name="android.permission.REORDER_TASKS" />
-21-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\469064de572fe41dc4ef03d430eaa179\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:5-72
-21-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\469064de572fe41dc4ef03d430eaa179\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:22-69
+21-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ee2535e9c855e48da2238e5acc7c359c\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:5-72
+21-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ee2535e9c855e48da2238e5acc7c359c\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:22-69
 22
 23    <application
-23-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:20:5-41:19
+23-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:21:5-40:19
 24        android:allowBackup="true"
-24-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:21:9-35
+24-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:22:9-35
 25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-25-->[androidx.core:core:1.7.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\4afcc6eb21540f37443546848d7ec7a8\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+25-->[androidx.core:core:1.7.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\e2e2e27effe7743c947baf9f7d773e8c\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 26        android:debuggable="true"
 27        android:extractNativeLibs="false"
 28        android:icon="@mipmap/ic_launcher"
-28-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:22:9-43
+28-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:23:9-43
 29        android:label="@string/app_name"
-29-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:23:9-41
+29-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:24:9-41
 30        android:requestLegacyExternalStorage="true"
-30-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:27:9-52
+30-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:25:9-52
 31        android:roundIcon="@mipmap/ic_launcher_round"
-31-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:24:9-54
+31-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:26:9-54
 32        android:supportsRtl="true"
-32-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:25:9-35
+32-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:27:9-35
 33        android:testOnly="true"
 34        android:theme="@style/Theme.EncuestaSatisfacción" >
-34-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:26:9-58
-35        android:usesCleartextTraffic="true">
-36        <activity
-36-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:29:9-38:20
-37            android:name="mx.com.bancoazteca.innovacion.encuestasatisfaccion.MainActivity"
-37-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:30:13-91
-38            android:exported="true" >
-38-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:31:13-36
-39            <intent-filter>
-39-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:33:13-36:29
-40                <action android:name="android.intent.action.MAIN" />
-40-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:17-69
-40-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:25-66
-41
-42                <category android:name="android.intent.category.LAUNCHER" />
-42-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:35:17-77
-42-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:35:27-74
-43            </intent-filter>
-44        </activity>
-45        <activity
-45-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\469064de572fe41dc4ef03d430eaa179\transformed\jetified-core-1.4.0\AndroidManifest.xml:27:9-34:20
-46            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
-46-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\469064de572fe41dc4ef03d430eaa179\transformed\jetified-core-1.4.0\AndroidManifest.xml:28:13-99
-47            android:exported="true"
-47-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\469064de572fe41dc4ef03d430eaa179\transformed\jetified-core-1.4.0\AndroidManifest.xml:29:13-36
-48            android:theme="@android:style/Theme" >
-48-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\469064de572fe41dc4ef03d430eaa179\transformed\jetified-core-1.4.0\AndroidManifest.xml:30:13-49
-49            <intent-filter>
-49-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\469064de572fe41dc4ef03d430eaa179\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
-50                <action android:name="android.intent.action.MAIN" />
-50-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:17-69
-50-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:25-66
-51            </intent-filter>
-52        </activity>
-53        <activity
-53-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\469064de572fe41dc4ef03d430eaa179\transformed\jetified-core-1.4.0\AndroidManifest.xml:35:9-42:20
-54            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
-54-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\469064de572fe41dc4ef03d430eaa179\transformed\jetified-core-1.4.0\AndroidManifest.xml:36:13-95
-55            android:exported="true"
-55-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\469064de572fe41dc4ef03d430eaa179\transformed\jetified-core-1.4.0\AndroidManifest.xml:37:13-36
-56            android:theme="@android:style/Theme" >
-56-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\469064de572fe41dc4ef03d430eaa179\transformed\jetified-core-1.4.0\AndroidManifest.xml:38:13-49
-57            <intent-filter>
-57-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\469064de572fe41dc4ef03d430eaa179\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
-58                <action android:name="android.intent.action.MAIN" />
-58-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:17-69
-58-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:25-66
-59            </intent-filter>
-60        </activity>
-61        <activity
-61-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\469064de572fe41dc4ef03d430eaa179\transformed\jetified-core-1.4.0\AndroidManifest.xml:43:9-50:20
-62            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
-62-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\469064de572fe41dc4ef03d430eaa179\transformed\jetified-core-1.4.0\AndroidManifest.xml:44:13-103
-63            android:exported="true"
-63-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\469064de572fe41dc4ef03d430eaa179\transformed\jetified-core-1.4.0\AndroidManifest.xml:45:13-36
-64            android:theme="@android:style/Theme.Dialog" >
-64-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\469064de572fe41dc4ef03d430eaa179\transformed\jetified-core-1.4.0\AndroidManifest.xml:46:13-56
-65            <intent-filter>
-65-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\469064de572fe41dc4ef03d430eaa179\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
-66                <action android:name="android.intent.action.MAIN" />
-66-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:17-69
-66-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:25-66
-67            </intent-filter>
-68        </activity>
-69
-70        <provider
-70-->[com.squareup.picasso:picasso:2.71828] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\0130e58aa86fdbb3c6d9dfeb5c21fb81\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
-71            android:name="com.squareup.picasso.PicassoProvider"
-71-->[com.squareup.picasso:picasso:2.71828] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\0130e58aa86fdbb3c6d9dfeb5c21fb81\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
-72            android:authorities="mx.com.bancoazteca.innovacion.encuestasatisfaccion.com.squareup.picasso"
-72-->[com.squareup.picasso:picasso:2.71828] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\0130e58aa86fdbb3c6d9dfeb5c21fb81\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
-73            android:exported="false" />
-73-->[com.squareup.picasso:picasso:2.71828] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\0130e58aa86fdbb3c6d9dfeb5c21fb81\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
-74        <provider
-74-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\f3a4a749c1e94f61748b0263de19a09d\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-75            android:name="androidx.startup.InitializationProvider"
-75-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\f3a4a749c1e94f61748b0263de19a09d\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
-76            android:authorities="mx.com.bancoazteca.innovacion.encuestasatisfaccion.androidx-startup"
-76-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\f3a4a749c1e94f61748b0263de19a09d\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
-77            android:exported="false" >
-77-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\f3a4a749c1e94f61748b0263de19a09d\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
-78            <meta-data
-78-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\f3a4a749c1e94f61748b0263de19a09d\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-79                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-79-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\f3a4a749c1e94f61748b0263de19a09d\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
-80                android:value="androidx.startup" />
-80-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\f3a4a749c1e94f61748b0263de19a09d\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
-81            <meta-data
-81-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\bea52358489c3389e8e4cc2a8bee3489\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-82                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-82-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\bea52358489c3389e8e4cc2a8bee3489\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-83                android:value="androidx.startup" />
-83-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\bea52358489c3389e8e4cc2a8bee3489\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-84        </provider>
-85    </application>
-86
-87</manifest>
+34-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:28:9-58
+35        <activity
+35-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:29:9-39:20
+36            android:name="mx.com.bancoazteca.innovacion.encuestasatisfaccion.MainActivity"
+36-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:30:13-41
+37            android:exported="true" >
+37-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:31:13-36
+38            <intent-filter>
+38-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:33:13-37:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:17-69
+39-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:36:17-77
+41-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:36:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ee2535e9c855e48da2238e5acc7c359c\transformed\jetified-core-1.4.0\AndroidManifest.xml:27:9-34:20
+45            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+45-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ee2535e9c855e48da2238e5acc7c359c\transformed\jetified-core-1.4.0\AndroidManifest.xml:28:13-99
+46            android:exported="true"
+46-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ee2535e9c855e48da2238e5acc7c359c\transformed\jetified-core-1.4.0\AndroidManifest.xml:29:13-36
+47            android:theme="@android:style/Theme" >
+47-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ee2535e9c855e48da2238e5acc7c359c\transformed\jetified-core-1.4.0\AndroidManifest.xml:30:13-49
+48            <intent-filter>
+48-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ee2535e9c855e48da2238e5acc7c359c\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:17-69
+49-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:25-66
+50            </intent-filter>
+51        </activity>
+52        <activity
+52-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ee2535e9c855e48da2238e5acc7c359c\transformed\jetified-core-1.4.0\AndroidManifest.xml:35:9-42:20
+53            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+53-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ee2535e9c855e48da2238e5acc7c359c\transformed\jetified-core-1.4.0\AndroidManifest.xml:36:13-95
+54            android:exported="true"
+54-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ee2535e9c855e48da2238e5acc7c359c\transformed\jetified-core-1.4.0\AndroidManifest.xml:37:13-36
+55            android:theme="@android:style/Theme" >
+55-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ee2535e9c855e48da2238e5acc7c359c\transformed\jetified-core-1.4.0\AndroidManifest.xml:38:13-49
+56            <intent-filter>
+56-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ee2535e9c855e48da2238e5acc7c359c\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:17-69
+57-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:25-66
+58            </intent-filter>
+59        </activity>
+60        <activity
+60-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ee2535e9c855e48da2238e5acc7c359c\transformed\jetified-core-1.4.0\AndroidManifest.xml:43:9-50:20
+61            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+61-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ee2535e9c855e48da2238e5acc7c359c\transformed\jetified-core-1.4.0\AndroidManifest.xml:44:13-103
+62            android:exported="true"
+62-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ee2535e9c855e48da2238e5acc7c359c\transformed\jetified-core-1.4.0\AndroidManifest.xml:45:13-36
+63            android:theme="@android:style/Theme.Dialog" >
+63-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ee2535e9c855e48da2238e5acc7c359c\transformed\jetified-core-1.4.0\AndroidManifest.xml:46:13-56
+64            <intent-filter>
+64-->[androidx.test:core:1.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ee2535e9c855e48da2238e5acc7c359c\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
+65                <action android:name="android.intent.action.MAIN" />
+65-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:17-69
+65-->C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:25-66
+66            </intent-filter>
+67        </activity>
+68
+69        <provider
+69-->[com.squareup.picasso:picasso:2.71828] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\a6b976fdaf449afaa92d30bb325a7f26\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+70            android:name="com.squareup.picasso.PicassoProvider"
+70-->[com.squareup.picasso:picasso:2.71828] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\a6b976fdaf449afaa92d30bb325a7f26\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+71            android:authorities="mx.com.bancoazteca.innovacion.encuestasatisfaccion.com.squareup.picasso"
+71-->[com.squareup.picasso:picasso:2.71828] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\a6b976fdaf449afaa92d30bb325a7f26\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+72            android:exported="false" />
+72-->[com.squareup.picasso:picasso:2.71828] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\a6b976fdaf449afaa92d30bb325a7f26\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+73        <provider
+73-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\546272ab9a93a83f480abdff11447ddd\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+74            android:name="androidx.startup.InitializationProvider"
+74-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\546272ab9a93a83f480abdff11447ddd\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+75            android:authorities="mx.com.bancoazteca.innovacion.encuestasatisfaccion.androidx-startup"
+75-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\546272ab9a93a83f480abdff11447ddd\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+76            android:exported="false" >
+76-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\546272ab9a93a83f480abdff11447ddd\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+77            <meta-data
+77-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\546272ab9a93a83f480abdff11447ddd\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+78                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+78-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\546272ab9a93a83f480abdff11447ddd\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+79                android:value="androidx.startup" />
+79-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\546272ab9a93a83f480abdff11447ddd\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+80            <meta-data
+80-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\997af8920a728f3506b868bdda06740b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+81                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+81-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\997af8920a728f3506b868bdda06740b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+82                android:value="androidx.startup" />
+82-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\997af8920a728f3506b868bdda06740b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+83        </provider>
+84    </application>
+85
+86</manifest>
