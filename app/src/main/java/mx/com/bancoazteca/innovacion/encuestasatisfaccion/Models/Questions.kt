@@ -5,8 +5,9 @@ data class Questions(
     val UrlLogo : String,
     val TipoRetiro: String,
     val Preguntas: ArrayList<preguntas>,
-    val Guid: String = ""
-
+    val Guid: String = "",
+    val GrabacionAudioActivo : Boolean,
+    val TiempoParaGrabarEncuesta : Long
 
 )
 

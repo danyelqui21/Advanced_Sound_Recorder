@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:2:1-42:12
+ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:2:1-44:12
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\8959266d8100a6903db76e16f9ea76b6\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\1acdce4a5a57b3887de8dd8d983c10dc\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ceb6438529db60182331ebc7c32ac479\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
@@ -52,22 +52,22 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Pruebas\source\r
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ffc9b894df96bf25759e32d813f0ba88\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\1f373f25dcc1cf53600ce34538ac7cf9\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\bb7f1d8ca9a8aed6881f6fe7e90bd2ba\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:2:1-44:12
 	package
 		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:4:5-65
 		INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:2:1-42:12
+		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:2:1-44:12
 		INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:2:1-42:12
+		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:2:1-44:12
 		INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:2:11-69
@@ -115,8 +115,12 @@ uses-permission#android.permission.RECORD_AUDIO
 ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:19:5-71
 	android:name
 		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:19:22-68
+uses-feature#android.hardware.screen.portrait
+ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:20:5-69
+	android:name
+		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:20:19-66
 application
-ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:21:5-40:19
+ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:22:5-42:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\1acdce4a5a57b3887de8dd8d983c10dc\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\1acdce4a5a57b3887de8dd8d983c10dc\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\ceb6438529db60182331ebc7c32ac479\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -140,37 +144,39 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Pruebas\source\rep
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\d9def8246dd1f66f49ab3cdbd13bae67\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\d9def8246dd1f66f49ab3cdbd13bae67\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:requestLegacyExternalStorage
-		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:25:9-52
+		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:26:9-52
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\Pruebas\source\repos\suc-zoom-device\.gradle\caches\transforms-3\e2e2e27effe7743c947baf9f7d773e8c\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:27:9-35
+		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:28:9-35
 	android:label
-		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:24:9-41
+		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:25:9-41
 	android:roundIcon
-		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:26:9-54
+		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:27:9-54
 	android:icon
-		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:23:9-43
+		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:24:9-43
 	android:allowBackup
-		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:23:9-35
 	android:theme
-		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:28:9-58
+		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:29:9-58
 activity#mx.com.bancoazteca.innovacion.encuestasatisfaccion.MainActivity
-ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:29:9-39:20
+ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:30:9-41:20
+	android:screenOrientation
+		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:33:13-49
 	android:exported
-		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:31:13-36
+		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:32:13-36
 	android:name
-		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:30:13-41
+		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:31:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:33:13-37:29
+ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:35:13-39:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:17-69
+ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:25-66
+		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:36:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:36:17-77
+ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:38:17-77
 	android:name
-		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:36:27-74
+		ADDED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:38:27-74
 uses-sdk
 INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Pruebas\source\repos\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml

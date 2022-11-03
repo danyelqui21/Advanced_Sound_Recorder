@@ -60,7 +60,7 @@ class VoiceRecorder () {
         }
     }
 
-    fun Inicialize(guid: String){
+    fun Inicialize(guid: String, time: Int){
 
         this.guid = guid
         output = externalPath + "/${guid}.mp3"
@@ -71,7 +71,7 @@ class VoiceRecorder () {
         mediaRecorder?.setAudioEncodingBitRate(320000)
         mediaRecorder?.setAudioSamplingRate(48000)
         mediaRecorder?.setOutputFile(output)
-        mediaRecorder?.setMaxDuration(15000)
+        mediaRecorder?.setMaxDuration(time)
         mediaRecorder.setOnInfoListener(MediaRecorder.OnInfoListener { mr, what, extra ->
             Toast.makeText(context, R.string.GraciasGrabacion, Toast.LENGTH_SHORT).show()
             stopRecording()
@@ -121,7 +121,7 @@ class VoiceRecorder () {
                 var textFromFile = textFileReader.getJsonFileData(textFileReader.answerTemporalJson)
                 var datoObtenido = gson.fromJson<AnswerSurvey>(textFromFile, AnswerSurvey::class.java)
 
-                datoObtenido.audioAnswer = encodeAudio(output.toString())
+                datoObtenido.audioAnswer = encodeAudio(output.toString()).replace("\n", "")
                 textFileReader.WriteAnswer(datoObtenido, false)
 
             }
@@ -198,7 +198,5 @@ class VoiceRecorder () {
             e.printStackTrace()
         }
     }
-
-
 
 }

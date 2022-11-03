@@ -52,7 +52,7 @@
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
             android:gravity="center"
-            android:text="¡Muchas gracias por su respuesta!"
+            android:text="¡Por favor, compártenos tu opinión!"
             android:textAllCaps="false"
             android:textSize="21dp"
             android:textStyle="bold"
@@ -70,7 +70,7 @@
         <mx.com.bancoazteca.innovacion.encuestasatisfaccion.WaveFormView.WaveFormView
             android:id="@+id/waveFormView"
             android:layout_width="wrap_content"
-            android:layout_height="80px" />
+            android:layout_height="55dp" />
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
             android:id="@+id/button_record"

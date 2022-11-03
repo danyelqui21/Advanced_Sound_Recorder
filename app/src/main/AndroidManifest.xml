@@ -17,6 +17,7 @@
         tools:ignore="ProtectedPermissions" />
     <uses-permission android:name="android.permission.EXPAND_STATUS_BAR" />
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-feature android:name="android.hardware.screen.portrait" />
 
     <application
         android:allowBackup="true"
@@ -28,7 +29,8 @@
         android:theme="@style/Theme.EncuestaSatisfacción">
         <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true"
+            android:screenOrientation="portrait">
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

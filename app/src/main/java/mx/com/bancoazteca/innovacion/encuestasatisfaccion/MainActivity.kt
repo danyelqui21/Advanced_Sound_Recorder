@@ -7,25 +7,24 @@ import android.os.*
 import android.util.Log
 import android.widget.ImageView
 import android.widget.TextView
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.floatingactionbutton.FloatingActionButton
-import mx.com.bancoazteca.innovacion.encuestasatisfaccion.Controllers.MyRecyclerAdapter
-import mx.com.bancoazteca.innovacion.encuestasatisfaccion.Models.Questions
-import mx.com.bancoazteca.innovacion.encuestasatisfaccion.Models.preguntas
 import com.google.gson.Gson
-import com.google.gson.GsonBuilder
-import com.google.gson.JsonSyntaxException
 import com.squareup.picasso.Picasso
+import mx.com.bancoazteca.innovacion.encuestasatisfaccion.Controllers.MyRecyclerAdapter
 import mx.com.bancoazteca.innovacion.encuestasatisfaccion.Models.AnswerSurvey
+import mx.com.bancoazteca.innovacion.encuestasatisfaccion.Models.Questions
 import mx.com.bancoazteca.innovacion.encuestasatisfaccion.Models.TextFileReader
+import mx.com.bancoazteca.innovacion.encuestasatisfaccion.Models.preguntas
 import mx.com.bancoazteca.innovacion.encuestasatisfaccion.Timer.Timer
 import mx.com.bancoazteca.innovacion.encuestasatisfaccion.VoiceRecorder.VoiceRecorder
 import mx.com.bancoazteca.innovacion.encuestasatisfaccion.WaveFormView.WaveFormView
-import java.io.*
+import java.io.File
 import java.util.concurrent.Executors
 
 
@@ -51,16 +50,17 @@ class MainActivity : AppCompatActivity(), Timer.OnTimerTickListener {
 
     private lateinit var buttonRecord : FloatingActionButton
     private lateinit var tvRecord: TextView
-    private var TimeRecording : Long = 15000L
     private lateinit var waveFormView : WaveFormView
     private lateinit var textFileReader : TextFileReader
-
+    private val MY_PERMISSIONS_RECORD_AUDIO = 1
+    var AudioRecordingEnabled : Boolean = false
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
         verifyStoragePermissions(this)
+        requestAudioPermissions()
 
         ivLogo = findViewById(R.id.ivLogo)
         tvEnviar = findViewById(R.id.tvEnviar)
@@ -68,6 +68,9 @@ class MainActivity : AppCompatActivity(), Timer.OnTimerTickListener {
         buttonRecord = findViewById(R.id.button_record)
         tvRecord = findViewById(R.id.tvTextoGrabacion)
         waveFormView = findViewById(R.id.waveFormView)
+
+
+        textFileReader = TextFileReader()
 
         Picasso.get()
             .load(R.drawable.logobancoazteca)
@@ -77,9 +80,7 @@ class MainActivity : AppCompatActivity(), Timer.OnTimerTickListener {
             getTextFile()
         })
 
-        timer = Timer(this)
-        textFileReader = TextFileReader()
-        timer.duration = TimeRecording
+
 
         try {
             val file = File(externalPath,textFileReader.answerJson)
@@ -101,6 +102,7 @@ class MainActivity : AppCompatActivity(), Timer.OnTimerTickListener {
                 x.add(i)
             }
 
+            AudioRecordingEnabled = datoObtenido.GrabacionAudioActivo
 
             setUpRecyclerView(x)
 
@@ -115,9 +117,13 @@ class MainActivity : AppCompatActivity(), Timer.OnTimerTickListener {
             Log.d("DEBUG", "Excepción al serializar archivo de configuración "+ex)
         }
 
+        timer = Timer(this)
+
+        timer.duration = datoObtenido.TiempoParaGrabarEncuesta
+
 
         voiceRecorder.VoiceRecorder(applicationContext, this, buttonRecord, tvRecord, waveFormView)
-        voiceRecorder.Inicialize(datoObtenido.Guid)
+        voiceRecorder.Inicialize(datoObtenido.Guid, datoObtenido.TiempoParaGrabarEncuesta.toInt())
 
 
         buttonRecord.setOnClickListener({
@@ -126,8 +132,12 @@ class MainActivity : AppCompatActivity(), Timer.OnTimerTickListener {
                 timer.stop()
                 waveFormView.clear()
             }else{
-                voiceRecorder.startRecording()
-                timer.start()
+
+                if(AudioRecordingEnabled){
+                    voiceRecorder.startRecording()
+                    timer.start()
+                }
+
             }
         })
 
@@ -135,6 +145,49 @@ class MainActivity : AppCompatActivity(), Timer.OnTimerTickListener {
         TimerExit()
 
     }
+
+
+    private fun requestAudioPermissions() {
+
+        if (ContextCompat.checkSelfPermission(
+                this,
+                Manifest.permission.RECORD_AUDIO
+            )
+            != PackageManager.PERMISSION_GRANTED
+        ) {
+
+            //When permission is not granted by user, show them message why this permission is needed.
+            if (ActivityCompat.shouldShowRequestPermissionRationale(
+                    this,
+                    Manifest.permission.RECORD_AUDIO
+                )
+            ) {
+                Toast.makeText(this, "Please grant permissions to record audio", Toast.LENGTH_LONG)
+                    .show()
+
+                //Give user option to still opt-in the permissions
+                ActivityCompat.requestPermissions(
+                    this, arrayOf(Manifest.permission.RECORD_AUDIO),
+                    MY_PERMISSIONS_RECORD_AUDIO
+                )
+            } else {
+                // Show user dialog to grant permission to record audio
+                ActivityCompat.requestPermissions(
+                    this, arrayOf(Manifest.permission.RECORD_AUDIO),
+                    MY_PERMISSIONS_RECORD_AUDIO
+                )
+            }
+        } else if (ContextCompat.checkSelfPermission(
+                this,
+                Manifest.permission.RECORD_AUDIO
+            )
+            == PackageManager.PERMISSION_GRANTED
+        ) {
+
+        }
+    }
+
+
 
     fun setUpRecyclerView(r : MutableList<preguntas>){
         recyclerView = findViewById(R.id.rvEncuesta) as RecyclerView
@@ -210,8 +263,11 @@ class MainActivity : AppCompatActivity(), Timer.OnTimerTickListener {
                             }
                             else
                             {
-                                voiceRecorder.startRecording()
-                                timer.start()
+                                if(AudioRecordingEnabled){
+                                    voiceRecorder.startRecording()
+                                    timer.start()
+                                }
+
                             }
 
                         }
