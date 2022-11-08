@@ -15,68 +15,68 @@
             <stringArg name="classpath">
               <args>
                 <arg>$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/a677a3b9b0088b580c75464a58e3a15f/transformed/jetified-kotlinx-coroutines-core-jvm-1.6.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/3d9f64ae1ecb09993ad4701ea75ec039/transformed/jetified-kotlin-stdlib-jdk8-1.7.10.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/1fc1e5d98cb4811a44e6e43680df4c67/transformed/jetified-core-ktx-1.7.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/3f0d6f3caa626327fb5a018899f0a710/transformed/jetified-picasso-2.71828-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/255272d1543d4d5a13aa6acab435a5bc/transformed/jetified-retrofit-2.9.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/c1512216b217c168312f36c0d3189ab8/transformed/jetified-okhttp-4.9.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/46ef90d21e98cd744b03ca424894bbb9/transformed/jetified-kotlin-stdlib-jdk7-1.7.10.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/dd599b7074c8307cf5da6eccb8ec3f7c/transformed/jetified-okio-jvm-2.8.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/5e53c6b32c47a5932fe9da9bb05597e6/transformed/jetified-kotlin-stdlib-1.7.10.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/150668ae96eaf6e4d2e7f8e4295a770b/transformed/jetified-kotlin-stdlib-common-1.7.10.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/5855d7c036699c3b541fa76f5166074f/transformed/jetified-annotations-13.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/76c5db955b054624fbfd9490173725cd/transformed/material-1.6.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/ec03f3df9b80b094f4a186312945fa2a/transformed/appcompat-1.4.2-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/5328626e22828303de11d846faba6e2b/transformed/jetified-junit-ktx-1.1.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/f0bae4f33c6b6ce9bebd73ddce9cdd46/transformed/jetified-junit-1.1.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/69835b028856b1b8b8c814797898ce3c/transformed/jetified-core-1.4.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/6383ddec4d301ca25f9c4818db8f2eca/transformed/monitor-1.4.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/50646646334cae6ba2cf51d2ac9d8591/transformed/jetified-glide-4.13.2-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/5280922c6a9941457b8853536f585128/transformed/jetified-viewpager2-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/3edfb4af6318f3224b1318baed7c239f/transformed/fragment-1.3.6-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/ebd8c9bfe40a0f63a0d2edb1b7305eb1/transformed/jetified-activity-1.2.4-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/4c7b874a2901cab2f825893985fa4436/transformed/jetified-appcompat-resources-1.4.2-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/ded788b79f2a204efa4d18cf8ee94842/transformed/drawerlayout-1.1.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/9425e3d8c186a12f6128d6f2621631c8/transformed/coordinatorlayout-1.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/2740a667f476af88b6f1152b9c78dd66/transformed/dynamicanimation-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/f83b6842f80a0ed5902cc57939f74f26/transformed/recyclerview-1.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/0876115667f4d8cdec36705e15f9330f/transformed/transition-1.2.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/196de91af94be9bcbd2e62b254fbc2db/transformed/vectordrawable-animated-1.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/0a1f3de4764245c62c155839ece275c7/transformed/vectordrawable-1.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/f33d474b09faacfbc153cc787e1ddbca/transformed/viewpager-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/7dea21d24994d6b253c0dcb4e25ef404/transformed/legacy-support-core-utils-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/41fb0873ad20ba788640b650adc9b907/transformed/loader-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/a0de7a06ba54a726e62791f198f02e00/transformed/customview-1.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/2246aaac31cfc4d28115e0748c56968d/transformed/core-1.7.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/f2f124dadea1513660d60908a354d36b/transformed/cursoradapter-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/608d2e090e123e037ea2329a9f9a6b36/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/fdc0fc2a2e0967fac89ac46137c7f0e2/transformed/jetified-savedstate-1.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/6c28546fedbdc59f72d5b034a2e893f2/transformed/cardview-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/4e622fa7300cda869c8fdf561f779ced/transformed/lifecycle-runtime-2.4.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/8c397b3bc8576bf0e05396735b21f452/transformed/lifecycle-livedata-2.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/e30726727da1df69cde3bf12dfc35ed7/transformed/lifecycle-livedata-core-2.3.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/c0f265cb7da901059fc8e7a3c0726823/transformed/jetified-kotlinx-coroutines-core-jvm-1.6.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/d7832effd8a94f78565974f629cc0426/transformed/jetified-kotlin-stdlib-jdk8-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/b1c770ac28e5d1a463034c527b949a53/transformed/jetified-core-ktx-1.7.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/0e0d5c7866925ebfac7e248904de38eb/transformed/jetified-picasso-2.71828-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/c16ea499b76cff340a65eeff52777564/transformed/jetified-retrofit-2.9.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/e9c43269d06421bf6e32f037f9f2981a/transformed/jetified-okhttp-4.9.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/0e1d8ddfa1859a57aa795916274d92c7/transformed/jetified-kotlin-stdlib-jdk7-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/0fc87d3d4a90f9b365b267febf298ee6/transformed/jetified-okio-jvm-2.8.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/435f0bdd6c794ce750c3a00227480ed5/transformed/jetified-kotlin-stdlib-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/4ebed57be6884a4de12574997679101a/transformed/jetified-kotlin-stdlib-common-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/9e25bed8a31c3e7a9d378d5e4ae2dc57/transformed/jetified-annotations-13.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/7e66acd3e70ac3e145e7fff4299506aa/transformed/material-1.6.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/d22836f8495792b664d9e7031533855b/transformed/appcompat-1.4.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/6a252df126ba54c57171955ce8ad622c/transformed/jetified-junit-ktx-1.1.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/005b1468ce5cf02f0647207af2b23a2e/transformed/jetified-junit-1.1.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/337022684f8b9c0a77e802ebfec663f4/transformed/jetified-core-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/505c781110e59e2fddb5bef06e0d5ba5/transformed/monitor-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/4a0b71d1dd72bd56de19fc7b4c48dbe1/transformed/jetified-glide-4.13.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/c26cddd59ebeb6a226917fb5e6481b93/transformed/jetified-viewpager2-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/1b3b8958355dc287afd645c35972d79a/transformed/fragment-1.3.6-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/6b985e378dd3a8c3715ae68bc8de1423/transformed/jetified-activity-1.2.4-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/3c9ffc77c64cbc79966026ec41bc8965/transformed/jetified-appcompat-resources-1.4.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/284867e01b7d097de12d45fe349f95ac/transformed/drawerlayout-1.1.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/e12c4759d53abd8919c5caa1004b07bd/transformed/coordinatorlayout-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/2e78a59faeedde8a5a2f530f88fe2ae5/transformed/dynamicanimation-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/a8b4cd8c9504f6f4a0adc4ceb6eeb063/transformed/recyclerview-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/85f93c115848be48d57bf8dda413e146/transformed/transition-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/3362fdd6b361bcdce309dc068c2f4f58/transformed/vectordrawable-animated-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/3ec3a06b857de363775280431b0999f6/transformed/vectordrawable-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/59f4b88fb7233d645982e0a269d8e493/transformed/viewpager-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/48fe0d1f808897fb8c12bb1a560ee4bd/transformed/legacy-support-core-utils-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/444f6bef7860ad45a6811d475239a7cd/transformed/loader-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/a3afbe39ce2444824da00782ce1c98c1/transformed/customview-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/300eb2133eb597122f82784cdcb52e2d/transformed/core-1.7.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/2a763f48fb4f8bb1cfe43f440ffd9b03/transformed/cursoradapter-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/271fe4133ecdd1d0fe4e4864d60de7f8/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/c3dbe74bb0c070426271713b09e5afe1/transformed/jetified-savedstate-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/ae5b69042bc53592af333001b4ddc6be/transformed/cardview-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/f38c027358e39e872aa06c6f6ae6bffb/transformed/lifecycle-runtime-2.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/7a283ad7d2f7fc77efad8c7b24b64b90/transformed/lifecycle-livedata-2.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/98d25c12ca89c1ac38647054ed9e78e7/transformed/lifecycle-livedata-core-2.3.1-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.4.0/1fdb7349701e9cf2f0a69fc10642b6fef6bb3e12/lifecycle-common-2.4.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/4bb1a6c886439f57a1307e50dcf8647e/transformed/exifinterface-1.2.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/cf695947d8ec7e455baa0110d1fca2d6/transformed/jetified-gifdecoder-4.13.2-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/125d6f7f4d893fb8cb0a34d20d87d8d0/transformed/versionedparcelable-1.1.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/e415968fb0a652cb1837ba0e5aa9ff0a/transformed/lifecycle-viewmodel-2.3.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/33376c50bb54fc220e659a0f6c358119/transformed/exifinterface-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/9f18bf6fc36d4cd4ea38df06702bb8b8/transformed/jetified-gifdecoder-4.13.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/a273107d4bfeb6805e8c4c9982b2904b/transformed/versionedparcelable-1.1.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/354a1c7f1aaa5d7d327238cef16593e7/transformed/lifecycle-viewmodel-2.3.1-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/0de649bc4870e53af75c90e5adc6356d/transformed/core-runtime-2.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/ee6c0fd108d9b35e3bf1cc63ef24e004/transformed/core-runtime-2.1.0-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/7b3e1c976c31da0e7979b7aacfc30b39/transformed/interpolator-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/95cd818724379e1db18afd2143665b16/transformed/documentfile-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/4eb1c0da456bb12f6b12472087bc9aaf/transformed/localbroadcastmanager-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/3c14d75febfb6037d16b1cc4a784a351/transformed/print-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/7a2a508678db65c709ae34756aeb94dc/transformed/interpolator-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/7c58665e49044cb8215063cba04d1116/transformed/documentfile-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/1f37a1d02eaf50adc6260f15d7806523/transformed/localbroadcastmanager-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/8d34ace177891f58b8ccad50cf743ed4/transformed/print-1.0.0-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.3.0/21f49f5f9b85fc49de712539f79123119740595/annotation-1.3.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/92bf66ef7d1d78fee88e907b1233e1ac/transformed/jetified-annotation-experimental-1.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/72db218bdf4825686b751238dc3d0463/transformed/jetified-tracing-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/cb9e61b304f76c0ac40225ddd018a3dc/transformed/constraintlayout-2.1.4-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/a7074abd475110e8c9ab1d279d8bd723/transformed/jetified-junit-4.12.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/8f468a8e48bcdd67edbe221a4a1590be/transformed/jetified-hamcrest-core-1.3.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/51801486fb8b13a70a79e9adc2b37892/transformed/jetified-disklrucache-4.13.2.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/473660f2b032768a167e264c2fb45d41/transformed/jetified-annotations-4.13.2.jar</arg>
-                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/18324ee6c7301d9c03529bf0487cc007/transformed/jetified-gson-2.9.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/184f7e201846519b7f822803cd12f33e/transformed/jetified-annotation-experimental-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/4c189975a503adc026fd10186096dff6/transformed/jetified-tracing-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/15d5fe696ef15fdeeb43ce4fb8008232/transformed/constraintlayout-2.1.4-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/5fd19196f18591a18e21cc2b987d3467/transformed/jetified-junit-4.12.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/1bc905af2f0b0ad278dde8eb5b7dbdf7/transformed/jetified-hamcrest-core-1.3.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/71ba542dcfa4d3d499bc45dbbf28a099/transformed/jetified-disklrucache-4.13.2.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/94c931ad4c9cb0158abcba76378f29d5/transformed/jetified-annotations-4.13.2.jar</arg>
+                <arg>$MODULE_DIR$/../../../../suc-zoom-device/.gradle/caches/transforms-3/f01fb8007ff19a028ee11e0395715500/transformed/jetified-gson-2.9.0.jar</arg>
                 <arg>D:/SDK/platforms/android-32/android.jar</arg>
                 <arg>D:/SDK/build-tools/30.0.3/core-lambda-stubs.jar</arg>
               </args>
@@ -88,6 +88,7 @@
             <stringArg name="languageVersion" arg="1.7" />
           </stringArguments>
           <arrayArguments>
+            <arrayArg name="friendPaths" />
             <arrayArg name="pluginClasspaths" />
             <arrayArg name="pluginOptions" />
           </arrayArguments>

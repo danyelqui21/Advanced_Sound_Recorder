@@ -83,10 +83,12 @@ class MainActivity : AppCompatActivity(), Timer.OnTimerTickListener {
 
 
         try {
+
             val file = File(externalPath,textFileReader.answerJson)
             if(file.exists()){
                 file.delete()
             }
+
         }catch (ex: Exception){
 
         }
