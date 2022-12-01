@@ -6,11 +6,11 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "mx.com.bancoazteca.innovacion.encuestasatisfaccion"
-        minSdk 29
+        applicationId "com.wdev.soundrecorder"
+        minSdk 21
         targetSdk 32
         versionCode 1
-        versionName "1.0"
+        versionName "0.1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -21,11 +21,18 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+
+
+        viewBinding {
+            enabled = true
+        }
+    
+
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
-    namespace 'mx.com.bancoazteca.innovacion.encuestasatisfaccion'
+    namespace 'com.wdev.soundrecorder'
 }
 
 dependencies {

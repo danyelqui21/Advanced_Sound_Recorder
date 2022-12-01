@@ -1,12 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.EncuestaSatisfacción" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.GrayRecording" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/GreenTioRichy</item>
-        <item name="colorPrimaryVariant">@color/GreenTioRichy</item>
+        <item name="colorPrimary">@color/GrayFreddieMercury</item>
+        <item name="colorPrimaryVariant">@color/GrayMamado</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
-        <item name="colorSecondary">@color/GreenTioRichy</item>
+        <item name="colorSecondary">@color/GrayFreddieMercury</item>
         <item name="colorSecondaryVariant">@color/teal_700</item>
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->

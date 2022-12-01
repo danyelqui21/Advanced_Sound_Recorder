@@ -1,13 +1,30 @@
 <resources>
-    <string name="app_name">EncuestaSatisfacción</string>
+    <string name="app_name">Grabadora de Audio</string>
 
 
-    <string name="about_title">About Ringdroid</string>
-    <string name="about_text"><![CDATA[Use Ringdroid to edit MP3, OGG, WAV, AAC, and AMR audio files and create ringtones, alarms, and notifications from them.\n\nTip: copy audio files to your SD card using a USB cable.\n\nTip: tap anywhere on the waveform to start playing at that position.\n\nTip: while playing, tap the word Start or End to quickly set the start and end markers to the current playback time.\n\nVersion %s\n\nDeveloper: Dominic Mazzoni, Nicolas Faralli\nGraphics: Joseph Wain\nSupport and evangelizing: Eugene Koh\nEnhancements: Dan Klufas\n\nRingdroid is free software, distributed under the Apache 2.0 license.  Source code is on github.com/google/ringdroid\n]]></string>
+    <string name="formatfiles">OGG, WAV, AAC....</string>
     <string name="grabando">Grabando audio&#8230;</string>
-    <string name="compartiropinion">¡Graba tus cometarios!"</string>
-    <string name="GraciasGrabacion">¡Muchas gracias por su opinión!</string>
-    <string name="EmpiezaGrabacion">¡Grabe sus comentarios!</string>
-    <string name="SinGrabacionEnCurso">¡No hay ninguna grabación en curso!</string>
+    <string name="SinGrabacionEnCurso">¡No hay grabación en curso!</string>
+    <string name="FileTextName">Nombre del archivo</string>
+    <string name="WavRecord">Grabar en formato wav</string>
+    <string name="tituloAjustes">Ajustes de grabación</string>
+
+    <string name="textGrabando">Grbando...</string>
+    <string name="textGrabar">Grabar</string>
+    <string name="textDetenerGrabacion">Detener grabación</string>
+    <!--Info de la aplicación-->
+    <string name="SaveFolder">WDevSoundRecorder</string>
+    <string name="FormatoGrabacion">Formato de grabación</string>
+    <string name="textoSalida">Salida de audio</string>
+
+    <!--Textos de la interfaz-->
+    <string name="ListOfFileText">Ver archivos grabados</string>
+
+    <string-array name="audio_format_array">
+        <item>wav</item>
+        <item>mp4</item>
+        <item>m4a</item>
+        <item>3gp</item>
+    </string-array>
 
 </resources>

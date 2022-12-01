@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "mx.com.bancoazteca.innovacion.encuestasatisfaccion.app-mergeDebugResources-3:/values-v24/values-v24.xml",
+            "outputFile": "com.wdev.soundrecorder.app-mergeDebugResources-25:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\caches\\transforms-3\\0704475c7aa9484f5bcca30bb0ecc583\\transformed\\appcompat-1.4.2\\res\\values-v24\\values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Pruebas\\source\\repos\\suc-zoom-device\\.gradle\\caches\\transforms-3\\1acdce4a5a57b3887de8dd8d983c10dc\\transformed\\material-1.6.1\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\LordKrabbs\\Documents\\Android\\gradle-7.4.2\\caches\\transforms-3\\8f9b2d82519d65679f34c8a2b6d193ec\\transformed\\material-1.6.1\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,9,12,15",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -30,6 +20,16 @@
                         "endLines": "4,5,6,7,10,13,16,19",
                         "endColumns": "84,98,86,100,10,10,10,10",
                         "endOffsets": "427,526,613,714,913,1126,1327,1542"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\LordKrabbs\\Documents\\Android\\gradle-7.4.2\\caches\\transforms-3\\2df81eeff941144d95b867ebd06476e1\\transformed\\appcompat-1.4.2\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
                     }
                 }
             ]

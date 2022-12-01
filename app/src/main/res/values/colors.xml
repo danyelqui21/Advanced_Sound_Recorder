@@ -7,10 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="GreenTioRichy">#005F3D</color>
     <color name="GoldenFreezer">#FFDE00</color>
     <color name="GrayStarCoconut">#C0C0C0</color>
     <color name="GrayFreddieMercury">#EFEFEF</color>
+    <color name="GrayMamado">#5E5E5E</color>
+    <color name="GrayVeryLigero">#E9E9E9</color>
+    <color name="RedToRecord">#e74c3c</color>
 
     <color name="waveform_selected">#33b5e5</color>
     <color name="waveform_unselected">#195a72</color>
