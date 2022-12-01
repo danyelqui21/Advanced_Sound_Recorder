@@ -6,206 +6,206 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml
+8-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml
+9-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-11-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:5:5-79
-11-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:5:22-76
+11-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:5:5-79
+11-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:5:22-76
 12    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
-12-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:6:5-8:47
-12-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:7:9-57
+12-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:6:5-8:47
+12-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:7:9-57
 13    <uses-permission android:name="android.permission.WAKE_LOCK" />
-13-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:9:5-68
-13-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:9:22-65
+13-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:9:5-68
+13-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:9:22-65
 14    <uses-permission android:name="android.permission.ACTION_MANAGE_WRITE_SETTINGS" />
-14-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:10:5-12:47
-14-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:11:9-71
+14-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:10:5-12:47
+14-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:11:9-71
 15    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR" />
-15-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:13:5-76
-15-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:13:22-73
+15-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:13:5-76
+15-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:13:22-73
 16    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-16-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:14:5-71
-16-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:14:22-68
+16-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:14:5-71
+16-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:14:22-68
 17
 18    <uses-feature android:name="android.hardware.screen.portrait" />
-18-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:16:5-69
-18-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:16:19-66
+18-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:16:5-69
+18-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:16:19-66
 19
 20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-20-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:18:5-81
-20-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:18:22-78
+20-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:18:5-81
+20-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:18:22-78
 21    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-21-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:19:5-80
-21-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:19:22-77
+21-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:19:5-80
+21-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:19:22-77
 22    <uses-permission android:name="android.permission.REORDER_TASKS" />
-22-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:5-72
-22-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:22-69
+22-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:5-72
+22-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:22-69
 23
 24    <application
-24-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:21:5-66:19
+24-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:21:5-66:19
 25        android:allowBackup="true"
-25-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:22:9-35
+25-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:22:9-35
 26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-26-->[androidx.core:core:1.7.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\2c63ebd0bf982b890896c5e925bd54c3\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+26-->[androidx.core:core:1.7.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\2c63ebd0bf982b890896c5e925bd54c3\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 27        android:debuggable="true"
 28        android:icon="@mipmap/ic_launcher"
-28-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:23:9-43
+28-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:23:9-43
 29        android:label="@string/app_name"
-29-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:24:9-41
+29-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:24:9-41
 30        android:requestLegacyExternalStorage="true"
-30-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:25:9-52
+30-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:25:9-52
 31        android:roundIcon="@mipmap/ic_launcher_round"
-31-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:26:9-54
+31-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:26:9-54
 32        android:supportsRtl="true"
-32-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:27:9-35
+32-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:27:9-35
 33        android:testOnly="true"
 34        android:theme="@style/Theme.GrayRecording" >
-34-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:28:9-51
+34-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:28:9-51
 35        <activity
-35-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:29:9-35:20
+35-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:29:9-35:20
 36            android:name="com.wdev.soundrecorder.SettingsActivity"
-36-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:30:13-45
+36-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:30:13-45
 37            android:exported="false" >
-37-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:31:13-37
+37-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:31:13-37
 38            <meta-data
-38-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:32:13-34:36
+38-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:32:13-34:36
 39                android:name="android.app.lib_name"
-39-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:33:17-52
+39-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:33:17-52
 40                android:value="" />
-40-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:17-33
+40-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:34:17-33
 41        </activity>
 42        <activity
-42-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:36:9-42:20
+42-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:36:9-42:20
 43            android:name="com.wdev.soundrecorder.AudioList"
-43-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:37:13-38
+43-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:37:13-38
 44            android:exported="false" >
-44-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:38:13-37
+44-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:38:13-37
 45            <meta-data
-45-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:32:13-34:36
+45-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:32:13-34:36
 46                android:name="android.app.lib_name"
-46-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:33:17-52
+46-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:33:17-52
 47                android:value="" />
-47-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:17-33
+47-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:34:17-33
 48        </activity>
 49        <activity
-49-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:43:9-49:20
+49-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:43:9-49:20
 50            android:name="com.wdev.soundrecorder.AudioLisy"
-50-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:44:13-38
+50-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:44:13-38
 51            android:exported="false" >
-51-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:45:13-37
+51-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:45:13-37
 52            <meta-data
-52-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:32:13-34:36
+52-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:32:13-34:36
 53                android:name="android.app.lib_name"
-53-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:33:17-52
+53-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:33:17-52
 54                android:value="" />
-54-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:17-33
+54-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:34:17-33
 55        </activity>
 56        <activity
-56-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:50:9-56:20
+56-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:50:9-56:20
 57            android:name="com.wdev.soundrecorder.PlayAudio"
-57-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:51:13-38
+57-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:51:13-38
 58            android:exported="false" >
-58-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:52:13-37
+58-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:52:13-37
 59            <meta-data
-59-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:32:13-34:36
+59-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:32:13-34:36
 60                android:name="android.app.lib_name"
-60-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:33:17-52
+60-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:33:17-52
 61                android:value="" />
-61-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:34:17-33
+61-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:34:17-33
 62        </activity>
 63        <activity
-63-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:57:9-65:20
+63-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:57:9-65:20
 64            android:name="com.wdev.soundrecorder.MainActivity"
-64-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:58:13-41
+64-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:58:13-41
 65            android:exported="true" >
-65-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:59:13-36
+65-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:59:13-36
 66            <intent-filter>
-66-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:60:13-64:29
+66-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:60:13-64:29
 67                <action android:name="android.intent.action.MAIN" />
-67-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:61:17-69
-67-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:61:25-66
+67-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:61:17-69
+67-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:61:25-66
 68
 69                <category android:name="android.intent.category.LAUNCHER" />
-69-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:63:17-77
-69-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:63:27-74
+69-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:63:17-77
+69-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:63:27-74
 70            </intent-filter>
 71        </activity>
 72        <activity
-72-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:27:9-34:20
+72-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:27:9-34:20
 73            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
-73-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:28:13-99
+73-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:28:13-99
 74            android:exported="true"
-74-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:29:13-36
+74-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:29:13-36
 75            android:theme="@android:style/Theme" >
-75-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:30:13-49
+75-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:30:13-49
 76            <intent-filter>
-76-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
+76-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
 77                <action android:name="android.intent.action.MAIN" />
-77-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:61:17-69
-77-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:61:25-66
+77-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:61:17-69
+77-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:61:25-66
 78            </intent-filter>
 79        </activity>
 80        <activity
-80-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:35:9-42:20
+80-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:35:9-42:20
 81            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
-81-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:36:13-95
+81-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:36:13-95
 82            android:exported="true"
-82-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:37:13-36
+82-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:37:13-36
 83            android:theme="@android:style/Theme" >
-83-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:38:13-49
+83-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:38:13-49
 84            <intent-filter>
-84-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
+84-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
 85                <action android:name="android.intent.action.MAIN" />
-85-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:61:17-69
-85-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:61:25-66
+85-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:61:17-69
+85-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:61:25-66
 86            </intent-filter>
 87        </activity>
 88        <activity
-88-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:43:9-50:20
+88-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:43:9-50:20
 89            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
-89-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:44:13-103
+89-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:44:13-103
 90            android:exported="true"
-90-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:45:13-36
+90-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:45:13-36
 91            android:theme="@android:style/Theme.Dialog" >
-91-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:46:13-56
+91-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:46:13-56
 92            <intent-filter>
-92-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
+92-->[androidx.test:core:1.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\042f87ec1b68525bb591928b183cd9f0\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
 93                <action android:name="android.intent.action.MAIN" />
-93-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:61:17-69
-93-->C:\Users\LordKrabbs\source\repos\EncuestaSatisfaccion\EncuestaSatisfaccin\app\src\main\AndroidManifest.xml:61:25-66
+93-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:61:17-69
+93-->C:\Users\LordKrabbs\AndroidStudioProjects\Advanced_Sound_Recorder\app\src\main\AndroidManifest.xml:61:25-66
 94            </intent-filter>
 95        </activity>
 96
 97        <provider
-97-->[com.squareup.picasso:picasso:2.71828] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\da189a5b499d537aec5aa710eb50cf97\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+97-->[com.squareup.picasso:picasso:2.71828] C:\Users\LordKrabbs\.gradle\caches\transforms-3\da189a5b499d537aec5aa710eb50cf97\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
 98            android:name="com.squareup.picasso.PicassoProvider"
-98-->[com.squareup.picasso:picasso:2.71828] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\da189a5b499d537aec5aa710eb50cf97\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+98-->[com.squareup.picasso:picasso:2.71828] C:\Users\LordKrabbs\.gradle\caches\transforms-3\da189a5b499d537aec5aa710eb50cf97\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
 99            android:authorities="com.wdev.soundrecorder.com.squareup.picasso"
-99-->[com.squareup.picasso:picasso:2.71828] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\da189a5b499d537aec5aa710eb50cf97\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+99-->[com.squareup.picasso:picasso:2.71828] C:\Users\LordKrabbs\.gradle\caches\transforms-3\da189a5b499d537aec5aa710eb50cf97\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
 100            android:exported="false" />
-100-->[com.squareup.picasso:picasso:2.71828] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\da189a5b499d537aec5aa710eb50cf97\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+100-->[com.squareup.picasso:picasso:2.71828] C:\Users\LordKrabbs\.gradle\caches\transforms-3\da189a5b499d537aec5aa710eb50cf97\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
 101        <provider
-101-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\b08f75ea775a61fe0a68ee975a6fbee9\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+101-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\b08f75ea775a61fe0a68ee975a6fbee9\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 102            android:name="androidx.startup.InitializationProvider"
-102-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\b08f75ea775a61fe0a68ee975a6fbee9\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+102-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\b08f75ea775a61fe0a68ee975a6fbee9\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
 103            android:authorities="com.wdev.soundrecorder.androidx-startup"
-103-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\b08f75ea775a61fe0a68ee975a6fbee9\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+103-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\b08f75ea775a61fe0a68ee975a6fbee9\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
 104            android:exported="false" >
-104-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\b08f75ea775a61fe0a68ee975a6fbee9\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+104-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\b08f75ea775a61fe0a68ee975a6fbee9\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
 105            <meta-data
-105-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\b08f75ea775a61fe0a68ee975a6fbee9\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+105-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\b08f75ea775a61fe0a68ee975a6fbee9\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
 106                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-106-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\b08f75ea775a61fe0a68ee975a6fbee9\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+106-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\b08f75ea775a61fe0a68ee975a6fbee9\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
 107                android:value="androidx.startup" />
-107-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\b08f75ea775a61fe0a68ee975a6fbee9\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+107-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\b08f75ea775a61fe0a68ee975a6fbee9\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
 108            <meta-data
-108-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\03f4e30b9ceeb3e84a13718e54806d73\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+108-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\03f4e30b9ceeb3e84a13718e54806d73\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
 109                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-109-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\03f4e30b9ceeb3e84a13718e54806d73\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+109-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\03f4e30b9ceeb3e84a13718e54806d73\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
 110                android:value="androidx.startup" />
-110-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LordKrabbs\Documents\Android\gradle-7.4.2\caches\transforms-3\03f4e30b9ceeb3e84a13718e54806d73\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+110-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LordKrabbs\.gradle\caches\transforms-3\03f4e30b9ceeb3e84a13718e54806d73\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
 111        </provider>
 112    </application>
 113

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\LordKrabbs\\Documents\\Android\\gradle-7.4.2\\daemon\\7.5.1\\com.wdev.soundrecorder.app-mergeDebugResources-4:\\layout\\item_audio_list.xml",
+        "source": "C:\\Users\\LordKrabbs\\Documents\\Android\\gradle-7.4.2\\daemon\\7.5.1\\com.wdev.soundrecorder.app-main-7:\\layout\\item_audio_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\LordKrabbs\\Documents\\Android\\gradle-7.4.2\\daemon\\7.5.1\\com.wdev.soundrecorder.app-mergeDebugResources-4:\\layout\\activity_play_audio.xml",
+        "source": "C:\\Users\\LordKrabbs\\Documents\\Android\\gradle-7.4.2\\daemon\\7.5.1\\com.wdev.soundrecorder.app-main-7:\\layout\\activity_play_audio.xml"
+    },
+    {
+        "merged": "com.wdev.soundrecorder.app-mergeDebugResources-4:/layout/activity_audio_list.xml",
+        "source": "com.wdev.soundrecorder.app-main-7:/layout/activity_audio_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\LordKrabbs\\Documents\\Android\\gradle-7.4.2\\daemon\\7.5.1\\com.wdev.soundrecorder.app-mergeDebugResources-4:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\LordKrabbs\\Documents\\Android\\gradle-7.4.2\\daemon\\7.5.1\\com.wdev.soundrecorder.app-main-7:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\LordKrabbs\\Documents\\Android\\gradle-7.4.2\\daemon\\7.5.1\\com.wdev.soundrecorder.app-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\LordKrabbs\\Documents\\Android\\gradle-7.4.2\\daemon\\7.5.1\\com.wdev.soundrecorder.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LordKrabbs\\Documents\\Android\\gradle-7.4.2\\daemon\\7.5.1\\com.wdev.soundrecorder.app-mergeDebugResources-4:\\layout\\activity_audio_list.xml",
+        "source": "C:\\Users\\LordKrabbs\\Documents\\Android\\gradle-7.4.2\\daemon\\7.5.1\\com.wdev.soundrecorder.app-main-7:\\layout\\activity_audio_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\LordKrabbs\\Documents\\Android\\gradle-7.4.2\\daemon\\7.5.1\\com.wdev.soundrecorder.app-mergeDebugResources-4:\\layout\\simple_item_spinner.xml",
+        "source": "C:\\Users\\LordKrabbs\\Documents\\Android\\gradle-7.4.2\\daemon\\7.5.1\\com.wdev.soundrecorder.app-main-7:\\layout\\simple_item_spinner.xml"
+    }
+]

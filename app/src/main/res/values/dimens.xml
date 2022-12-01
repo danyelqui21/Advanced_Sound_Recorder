@@ -5,4 +5,5 @@
 <dimen name="giant_margin">64dp</dimen>
     <!--Floating action button-->
     <dimen name="design_fab_image_size" tools:override="true">30dp</dimen>
+    <dimen name="ToolBarHeight">56dp</dimen>
 </resources>

@@ -10,6 +10,7 @@ color GrayMamado
 color GrayStarCoconut
 color GrayVeryLigero
 color RedToRecord
+color ToolbarColor
 color black
 color grid_line
 color playback_indicator
@@ -30,6 +31,7 @@ color waveform_selected
 color waveform_unselected
 color waveform_unselected_bkgnd_overlay
 color white
+dimen ToolBarHeight
 dimen big_margin
 dimen design_fab_image_size
 dimen giant_margin
@@ -69,6 +71,7 @@ id ToolbarS
 id audios_spinner
 id btnAudioRecorded
 id button_record
+id ivListRecordings
 id ivSettings
 id mode_spinner
 id rvAudioList
@@ -92,6 +95,7 @@ string FormatoGrabacion
 string ListOfFileText
 string SaveFolder
 string SinGrabacionEnCurso
+string TituloGrabaciones
 string WavRecord
 string app_name
 string formatfiles

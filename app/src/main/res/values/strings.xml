@@ -8,6 +8,7 @@
     <string name="FileTextName">Nombre del archivo</string>
     <string name="WavRecord">Grabar en formato wav</string>
     <string name="tituloAjustes">Ajustes de grabación</string>
+    <string name="TituloGrabaciones">Grabaciones</string>
 
     <string name="textGrabando">Grbando...</string>
     <string name="textGrabar">Grabar</string>

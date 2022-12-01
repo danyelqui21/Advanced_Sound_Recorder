@@ -37,6 +37,7 @@ class MainActivity : AppCompatActivity(), Timer.OnTimerTickListener, OnClickList
     private lateinit var tvRecord: TextView
     private lateinit var waveFormView : WaveFormView
     private lateinit var ivSettings : ImageView
+    private lateinit var ivListRecordins : ImageView
 
 
     private lateinit var binding: ActivityMainBinding
@@ -63,19 +64,20 @@ class MainActivity : AppCompatActivity(), Timer.OnTimerTickListener, OnClickList
 
 
         //Permissions Area
-        PermissionsManager.verifyStoragePermissions(this)
-        PermissionsManager.verifyAudioPermissions(this)
+        PermissionsManager.verifyAllPermissions(this)
 
         //Set Views Area
         tvRecord = binding.tvTextoGrabacion
         buttonRecord = binding.buttonRecord
         ivSettings = binding.ivSettings
+        ivListRecordins = binding.ivListRecordings
         //waveFormView = binding.waveFormView
 
         //OnClickListener Area
         binding.btnAudioRecorded.setOnClickListener(this)
         buttonRecord.setOnClickListener(this)
         ivSettings.setOnClickListener(this)
+        ivListRecordins.setOnClickListener(this)
 
 
         //Instanciate classes area
@@ -229,6 +231,10 @@ class MainActivity : AppCompatActivity(), Timer.OnTimerTickListener, OnClickList
 
                 val settinggsIntent  = Intent(applicationContext, SettingsActivity::class.java)
                 startActivity(settinggsIntent)
+            }
+            R.id.ivListRecordings->{
+                val listOfRecordings = Intent(applicationContext, AudioList::class.java)
+                startActivity(listOfRecordings)
             }
             else -> {
                 Toast.makeText(applicationContext, "Unknow action (???)", Toast.LENGTH_LONG).show()

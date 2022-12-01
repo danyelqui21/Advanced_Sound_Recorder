@@ -1,61 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.wdev.soundrecorder.app-mergeDebugResources-25:/values-night-v8/values-night-v8.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\LordKrabbs\\Documents\\Android\\gradle-7.4.2\\caches\\transforms-3\\2df81eeff941144d95b867ebd06476e1\\transformed\\appcompat-1.4.2\\res\\values-night-v8\\values-night-v8.xml",
-                    "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,46",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "100,170,254,338,434,536,638,3991",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "165,249,333,429,531,633,727,4075"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\LordKrabbs\\source\\repos\\EncuestaSatisfaccion\\EncuestaSatisfaccin\\app\\src\\main\\res\\values-night\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "823"
-                    },
-                    "to": {
-                        "startLines": "9",
-                        "startColumns": "4",
-                        "startOffsets": "732",
-                        "endLines": "21",
-                        "endColumns": "12",
-                        "endOffsets": "1332"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\LordKrabbs\\Documents\\Android\\gradle-7.4.2\\caches\\transforms-3\\8f9b2d82519d65679f34c8a2b6d193ec\\transformed\\material-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
-                    "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
-                    },
-                    "to": {
-                        "startLines": "22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,47,48,49,50,51,52,53,54",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1337,1412,1523,1612,1713,1820,1927,2026,2129,2217,2341,2443,2545,2661,2763,2877,3005,3121,3243,3379,3499,3633,3753,3865,4080,4197,4321,4451,4573,4711,4845,4961",
-                        "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
-                        "endOffsets": "1407,1518,1607,1708,1815,1922,2021,2124,2212,2336,2438,2540,2656,2758,2872,3000,3116,3238,3374,3494,3628,3748,3860,3986,4192,4316,4446,4568,4706,4840,4956,5076"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\LordKrabbs\\Documents\\Android\\gradle-7.4.2\\daemon\\7.5.1\\com.wdev.soundrecorder.app-mergeDebugResources-25:\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "com.wdev.soundrecorder.app-mergeDebugResources-3:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "C:\\Users\\LordKrabbs\\Documents\\Android\\gradle-7.4.2\\caches\\transforms-3\\2df81eeff941144d95b867ebd06476e1\\transformed\\appcompat-1.4.2\\res\\values-night-v8\\values-night-v8.xml",
@@ -69,20 +15,20 @@
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,46",
                         "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "100,170,254,338,434,536,638,3997",
+                        "startOffsets": "100,170,254,338,434,536,638,3991",
                         "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "165,249,333,429,531,633,727,4081"
+                        "endOffsets": "165,249,333,429,531,633,727,4075"
                     }
                 },
                 {
-                    "source": "C:\\Users\\LordKrabbs\\source\\repos\\EncuestaSatisfaccion\\EncuestaSatisfaccin\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\LordKrabbs\\AndroidStudioProjects\\Advanced_Sound_Recorder\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "100",
+                        "startOffsets": "102",
                         "endLines": "14",
                         "endColumns": "12",
-                        "endOffsets": "829"
+                        "endOffsets": "837"
                     },
                     "to": {
                         "startLines": "9",
@@ -90,7 +36,7 @@
                         "startOffsets": "732",
                         "endLines": "21",
                         "endColumns": "12",
-                        "endOffsets": "1338"
+                        "endOffsets": "1332"
                     }
                 },
                 {
@@ -105,9 +51,9 @@
                     "to": {
                         "startLines": "22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,47,48,49,50,51,52,53,54",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1343,1418,1529,1618,1719,1826,1933,2032,2135,2223,2347,2449,2551,2667,2769,2883,3011,3127,3249,3385,3505,3639,3759,3871,4086,4203,4327,4457,4579,4717,4851,4967",
+                        "startOffsets": "1337,1412,1523,1612,1713,1820,1927,2026,2129,2217,2341,2443,2545,2661,2763,2877,3005,3121,3243,3379,3499,3633,3753,3865,4080,4197,4321,4451,4573,4711,4845,4961",
                         "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
-                        "endOffsets": "1413,1524,1613,1714,1821,1928,2027,2130,2218,2342,2444,2546,2662,2764,2878,3006,3122,3244,3380,3500,3634,3754,3866,3992,4198,4322,4452,4574,4712,4846,4962,5082"
+                        "endOffsets": "1407,1518,1607,1708,1815,1922,2021,2124,2212,2336,2438,2540,2656,2758,2872,3000,3116,3238,3374,3494,3628,3748,3860,3986,4192,4316,4446,4568,4706,4840,4956,5076"
                     }
                 }
             ]

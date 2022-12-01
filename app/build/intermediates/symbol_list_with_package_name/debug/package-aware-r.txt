@@ -1183,6 +1183,7 @@ color GrayMamado
 color GrayStarCoconut
 color GrayVeryLigero
 color RedToRecord
+color ToolbarColor
 color abc_background_cache_hint_selector_material_dark
 color abc_background_cache_hint_selector_material_light
 color abc_btn_colored_borderless_text_material
@@ -1798,6 +1799,7 @@ color waveform_selected
 color waveform_unselected
 color waveform_unselected_bkgnd_overlay
 color white
+dimen ToolBarHeight
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
 dimen abc_action_bar_default_height_material
@@ -2809,6 +2811,7 @@ id item2
 id item3
 id item4
 id item_touch_helper_previous_elevation
+id ivListRecordings
 id ivSettings
 id jumpToEnd
 id jumpToStart
@@ -3269,6 +3272,7 @@ string FormatoGrabacion
 string ListOfFileText
 string SaveFolder
 string SinGrabacionEnCurso
+string TituloGrabaciones
 string WavRecord
 string abc_action_bar_home_description
 string abc_action_bar_up_description

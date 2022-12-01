@@ -26,6 +26,7 @@
     <color name="GrayStarCoconut">#C0C0C0</color>
     <color name="GrayVeryLigero">#E9E9E9</color>
     <color name="RedToRecord">#e74c3c</color>
+    <color name="ToolbarColor">#EFEFEF</color>
     <color name="black">#FF000000</color>
     <color name="grid_line">#66ffffff</color>
     <color name="playback_indicator">#ffff66</color>
@@ -46,6 +47,7 @@
     <color name="waveform_unselected">#195a72</color>
     <color name="waveform_unselected_bkgnd_overlay">#0a242d</color>
     <color name="white">#FFFFFFFF</color>
+    <dimen name="ToolBarHeight">56dp</dimen>
     <dimen name="big_margin">32dp</dimen>
     <dimen name="design_fab_image_size" ns1:override="true">30dp</dimen>
     <dimen name="giant_margin">64dp</dimen>
@@ -56,6 +58,7 @@
     <string name="ListOfFileText">Ver archivos grabados</string>
     <string name="SaveFolder">WDevSoundRecorder</string>
     <string name="SinGrabacionEnCurso">¡No hay grabación en curso!</string>
+    <string name="TituloGrabaciones">Grabaciones</string>
     <string name="WavRecord">Grabar en formato wav</string>
     <string name="app_name">Grabadora de Audio</string>
     <string name="formatfiles">OGG, WAV, AAC....</string>

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.wdev.soundrecorder.app-mergeDebugResources-25:/values-bn/values-bn.xml",
+            "outputFile": "com.wdev.soundrecorder.app-mergeDebugResources-3:/values-bn/values-bn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\LordKrabbs\\Documents\\Android\\gradle-7.4.2\\caches\\transforms-3\\8f9b2d82519d65679f34c8a2b6d193ec\\transformed\\material-1.6.1\\res\\values-bn\\values-bn.xml",
