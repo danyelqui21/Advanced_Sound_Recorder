@@ -1,19 +1,19 @@
 package com.wdev.soundrecorder
 
-import android.R
 import android.content.Context
 import android.content.SharedPreferences
 import android.os.Bundle
 import android.util.Log
 import android.view.View
-import android.view.View.OnClickListener
-import android.widget.*
-import android.widget.AdapterView.OnItemSelectedListener
+import android.widget.AdapterView
+import android.widget.ArrayAdapter
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
 import com.wdev.soundrecorder.databinding.ActivitySettingsBinding
 
-class SettingsActivity : AppCompatActivity(), OnClickListener, OnItemSelectedListener  {
+
+class SettingsActivity : AppCompatActivity(), View.OnClickListener,
+    AdapterView.OnItemSelectedListener {
 
     private lateinit var binding: ActivitySettingsBinding
 
@@ -49,19 +49,19 @@ class SettingsActivity : AppCompatActivity(), OnClickListener, OnItemSelectedLis
 
 
         //Obtener formato de grabación desde SharedPreferences
-        var audioFormat : String = sharedPreferences.getString("AudioFormat","wav").toString()
+        val audioFormat : String = sharedPreferences.getString("AudioFormat","wav").toString()
         indexFormat = if( valores.indexOf(audioFormat) > -1)  valores.indexOf(audioFormat) else -2
 
         //Obtener canal de grabación dessde SharedPreferences
-        var channelConfig : String = sharedPreferences.getString("AudioChannel","Stereo").toString()
+        val channelConfig : String = sharedPreferences.getString("AudioChannel","Stereo").toString()
         indexChannel = if( modeValue.indexOf(channelConfig) > -1)  modeValue.indexOf(channelConfig) else -2
 
         //Se seteaan valoreas a spinner de formato de grabación
-        spinnerFormat.adapter = ArrayAdapter(this, R.layout.simple_spinner_item, valores)
+        spinnerFormat.adapter = ArrayAdapter(this, R.layout.simple_item_spinner, valores)
         if(indexFormat>=0)spinnerFormat.setSelection(indexFormat)
 
         //Se setean valores a spinner de canal de grabación
-        spinnerMode.adapter = ArrayAdapter(this, R.layout.simple_spinner_item, modeValue)
+        spinnerMode.adapter = ArrayAdapter(this, R.layout.simple_item_spinner, modeValue)
         if(indexChannel>=0)spinnerMode.setSelection(indexChannel)
 
 
