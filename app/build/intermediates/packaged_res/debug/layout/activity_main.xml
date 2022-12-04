@@ -12,8 +12,8 @@
 
     <androidx.appcompat.widget.Toolbar
         android:layout_width="match_parent"
-        android:layout_height="56dp"
-        android:background="@color/GrayFreddieMercury"
+        android:layout_height="@dimen/ToolBarHeight"
+        android:background="@color/ToolbarColor"
         android:paddingLeft="0dp"
         android:paddingStart="0dp"
         app:contentInsetStart="5dp"
@@ -45,7 +45,8 @@
                 android:layout_height="40dp"
                 android:layout_alignParentEnd="true"
                 android:layout_centerVertical="true"
-                android:src="@drawable/menu_48dp"/>
+                android:layout_margin="5dp"
+                android:src="@drawable/settings_24dp"/>
         </RelativeLayout>
 
 
@@ -97,7 +98,7 @@
             android:textAllCaps="false"
             android:textSize="14dp"
             android:textStyle="bold"
-            android:visibility="invisible"/>
+            android:visibility="invisible" />
 
         <TextView
             android:id="@+id/tvTextoGrabacion"
@@ -111,20 +112,12 @@
             android:text=""
             android:textSize="16dp" />
 
-        <View
-        android:layout_width="match_parent"
-        android:layout_height="1dp"
-            android:background="@color/GrayStarCoconut"
-            android:layout_marginLeft="5dp"
-            android:layout_marginRight="5dp"/>
 
-
-
-       <!-- <com.wdev.soundrecorder.WaveFormView.WaveFormView
-            android:id="@+id/waveFormView"
-            android:layout_width="wrap_content"
-            android:layout_height="55dp"
-            android:layout_marginTop="5dp"/>-->
+        <!-- <com.wdev.soundrecorder.WaveFormView.WaveFormView
+             android:id="@+id/waveFormView"
+             android:layout_width="wrap_content"
+             android:layout_height="55dp"
+             android:layout_marginTop="5dp"/>-->
 
         <!--<com.google.android.material.floatingactionbutton.FloatingActionButton
             android:id="@+id/button_record"
@@ -140,15 +133,42 @@
             app:tint="#e74c3c"
             />-->
 
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:outlineSpotShadowColor="@color/black"
+            android:elevation="10dp">
 
-        <ImageButton
-            android:id="@+id/button_record"
-            android:layout_width="80dp"
-            android:layout_height="80dp"
-            android:scaleType="centerCrop"
-            android:adjustViewBounds="true"
-            android:src="@drawable/fiber_manual_record_24dp"
-            android:background="@color/GrayVeryLigero"/>
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <ImageButton
+                    android:id="@+id/button_record"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center"
+                    android:background="@color/white"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/fiber_manual_record_24dp" />
+
+                <ImageView
+                    android:id="@+id/ivListRecordings"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:src="@drawable/menu_48dp"
+                    android:layout_marginRight="30dp"/>
+
+            </FrameLayout>
+
+
+
+        </androidx.cardview.widget.CardView>
+
 
 
 
